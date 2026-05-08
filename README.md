@@ -1,10 +1,10 @@
-# 🧪 Automação de Testes E2E - Desafio QA Colmeia
+# Automação de Testes E2E - Desafio QA Colmeia
 
 Repositório destinado ao desafio de Quality Assurance, focado na exploração e validação E2E da aplicação Colmeia utilizando **Cypress**. 
 
 O projeto abrange testes de interface, fluxos de exceção, operações de CRUD (Create, Read, Update/Archive, Delete) e, principalmente, a identificação e documentação de comportamentos inesperados (Bugs) encontrados durante as sessões de teste exploratório.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Node.js**
 - **Cypress**
 
